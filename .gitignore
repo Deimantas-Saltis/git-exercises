@@ -1,5 +1,6 @@
 git_attributes
 *~
+.idea
 *.swp
 **/exercise
 **/remote
